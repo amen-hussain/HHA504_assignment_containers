@@ -6,6 +6,6 @@ Assignment: Deploying and Managing Containers with GCP Cloud Run and Azure Conta
 <img width="833" alt="image" src="https://github.com/user-attachments/assets/cb946e61-7534-4357-9bfe-35ca00c60e69">
 <img width="1240" alt="image" src="https://github.com/user-attachments/assets/97aeab00-ebd5-41a4-b1c8-00f10959f322">
 <img width="825" alt="image" src="https://github.com/user-attachments/assets/412536eb-9d37-4cdd-8cc3-d98ebbeec5f1">
-<img width="1413" alt="image" src="https://github.com/user-attachments/assets/dcc2b980-f8cf-41fe-b633-3fa6eb585d79">
+<img width="1402" alt="image" src="https://github.com/user-attachments/assets/648f6b05-274a-4337-93b4-60735296833e">
 
 I was unable to run this command successfully due to an error with my port. 
